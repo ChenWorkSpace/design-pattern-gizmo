@@ -1,6 +1,6 @@
 package instance;
 
-import origin.ConcreteComponent;
+import mode.ConcreteComponent;
 
 public abstract  class Beverage extends ConcreteComponent {
 	public String description ="Unknown Beverage";

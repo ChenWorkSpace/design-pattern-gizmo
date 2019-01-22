@@ -1,6 +1,6 @@
 package instance;
 
-import origin.Decorator;
+import mode.Decorator;
 
 public abstract  class CondimentDecorator extends Decorator{
 	public String description ="Unknown CondimentDecorator";

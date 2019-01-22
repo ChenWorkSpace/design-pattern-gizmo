@@ -1,4 +1,4 @@
-package origin;
+package mode;
 
 public abstract class Decorator implements Component{
 

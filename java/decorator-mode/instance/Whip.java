@@ -1,6 +1,6 @@
 package instance;
 
-import origin.Component;
+import mode.Component;
 
 public class Whip extends CondimentDecorator {
 	private Component beverage;

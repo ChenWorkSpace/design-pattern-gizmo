@@ -17,6 +17,7 @@
       <sourceFolder url="file://$MODULE_DIR$/strategy-mode" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Observer-mode" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/decorator-mode" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Factory-mode" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/target" />
     </content>
     <orderEntry type="sourceFolder" forTests="false" />

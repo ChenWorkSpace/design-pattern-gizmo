@@ -1,6 +1,6 @@
 package instance;
 
-import origin.Component;
+import mode.Component;
 
 public class Mocha extends CondimentDecorator{
 	private Float cost= (float) 1.3;

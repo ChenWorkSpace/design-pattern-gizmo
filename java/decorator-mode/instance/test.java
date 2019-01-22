@@ -1,6 +1,6 @@
 package instance;
 
-import origin.Component;
+import mode.Component;
 
 public class test {
 	public static void main(String[] args) {

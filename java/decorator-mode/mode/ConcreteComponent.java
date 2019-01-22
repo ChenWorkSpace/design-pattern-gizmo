@@ -1,4 +1,4 @@
-package origin;
+package mode;
 
 public abstract  class ConcreteComponent implements Component{
 	String description ="Unknown Component";

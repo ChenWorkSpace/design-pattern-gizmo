@@ -1,4 +1,4 @@
-package origin;
+package mode;
 
 public interface Component {
 	public String getDescription();
