@@ -4,6 +4,8 @@
 ### 一 策略模式   
 定义：策略模式定义了算法族，使得算法的变化独立于使用算法的客户。  
 设计原则：针对接口编程,而非针对实现。  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;多用组合，少用继承。  
+         
 代码：[策略模式](https://github.com/ChenWorkSpace/design-pattern-gizmo/tree/master/java/strategy-mode)  
 类图：  
 ![策略模式类图](https://uncomapp.oss-cn-beijing.aliyuncs.com/uncom_dynamics/strategy-mode.png)  
@@ -13,5 +15,9 @@
 代码：[观察者模式](https://github.com/ChenWorkSpace/design-pattern-gizmo/tree/master/java/Observer-mode)  
 类图：  
 ![观察者模式类图](https://uncomapp.oss-cn-beijing.aliyuncs.com/uncom_dynamics/observer-mode.png)  
-
-
+### 三 装饰者模式  
+定义：装饰者模式动态的将责任附加到对象上。  
+设计原则：类应该对扩展开放，对修改关闭。  
+代码：  
+类图：  
+![装饰者模式](https://uncomapp.oss-cn-beijing.aliyuncs.com/uncom_dynamics/decorator-mode.png)  
